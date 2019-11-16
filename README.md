@@ -1,2 +1,2 @@
 # Biblioteca Virtual
-Biblioteca virtual orientada hacia las especialidades tecnologicas industriales.
+Biblioteca virtual orientada hacia las especialidades tecnológicas industriales.
