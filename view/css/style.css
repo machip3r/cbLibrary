@@ -1,0 +1,107 @@
+#banner{
+	width:device-width;
+	background-image:url(../img/banner.png);
+	background-image:cover;
+	height:550px;
+}
+
+#banner-search{
+	width:device-width;
+	background-image:url(../img/search_banner.png);
+	background-image:cover;
+	height:550px;
+}
+
+#title-banner{
+	font-size:100px;
+	color:white;
+}
+
+#text-search{
+	width:50%;
+	text-align:center;
+}
+
+#filter-search{
+	width:30%;
+}
+
+#nav-top{
+	background-color:transparent;
+}
+
+#title-nav{
+	color:white;
+	text-align:center;
+}
+
+#btn-login{
+	background-color:white;
+	color:black;
+}
+
+#frase{
+	color:white;
+	font-size:25px;
+}
+
+#btn-search{
+	width:25%;
+}
+
+#btn-back{
+	width:25%;
+}
+
+#img-editorial{
+	float:left;
+	width:50%;
+}
+
+#section{
+	display:inline-block;
+	width:50%;
+}
+
+#o-editorial{
+	font-size:35px;
+	display:inline-block;
+}
+
+#sel-editorial{
+	font-size:25px;
+	display:inline-block;
+}
+
+#imagenE{
+	width:100%;
+}
+
+.central{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    background-color:white;
+}
+
+#login-dialog{
+	width:40%;
+	height:500px;
+	border-radius:10%;
+}
+
+#search-table-admin{
+	width:85%;
+}
+
+#search-table-user{
+	width:85%;
+}
+
+#form-nuevo-libro{
+	width:40%;
+	height:585px;
+	background-color:white;
+}
